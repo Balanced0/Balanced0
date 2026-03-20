@@ -1,36 +1,66 @@
-<h1 align="center">Hi 👋, I'm MD.Alvi Chowdhury</h1>
-<h3 align="center">A passionate Computer Science student with a keen interest in software development. As I embark on my journey in the tech world, I've been diving into programming languages and working on various projects that fuel my excitement for coding.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balanced0&label=Profile%20views&color=0e75b6&style=flat" alt="balanced0" /> </p>
+<!-- Header Section -->
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Md.%20Alvi%20Chowdhury&fontSize=70&animation=fadeIn" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balanced0" alt="balanced0" /></a> </p>
+### 🚀 Full-Stack Developer | Problem Solver | Lifelong Learner
 
-- 🔭 I’m currently working on **Implementing basic data structures and algorithms**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-alvi-chowdhury/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvichowdhury013@gmail.com)
 
-- 🌱 I’m currently learning **Java, Python, DSA**
+---
 
-- 🤝 I’m looking for help with **Guidance on internships and resume building**
+<!-- About Section -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Quick Bio</h3>
+      I specialize in building <b>impactful full-stack applications</b> with a focus on real-world utility. My journey is driven by a deep curiosity for how things work and a commitment to writing clean, scalable code. 
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Competitive Programming</h3>
+      I actively solve problems on <b>Codeforces</b> and <b>LeetCode</b>. This discipline keeps my algorithmic thinking sharp and ensures my solutions are optimized for performance.
+    </td>
+  </tr>
+</table>
 
-- 💬 Ask me about **Java, DSA**
+---
 
-- 📫 How to reach me **alvichowdhury013@gmail.com**
+### 🛠️ Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/md-alvi-chowdhury-380992302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-alvi-chowdhury" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mistycan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mistycan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mistycan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mistycan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/alvichowdvlf3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alvichowdvlf3" height="30" width="40" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,git,github,vscode,mongodb,nodejs" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
+### 🌟 Featured Projects
 
+| Project | Tech Stack | Link |
+| :--- | :--- | :--- |
+| **Payoo** | React • JS • CSS | [View Repo](https://github.com/YOUR_GITHUB_USERNAME/payoo) |
+| **Job Tracker** | React • Node.js • Java | [View Repo](https://github.com/YOUR_GITHUB_USERNAME/job-tracker) |
+| **English Janala** | JavaScript • HTML • CSS | [View Repo](https://github.com/YOUR_GITHUB_USERNAME/english-janala) |
+| **Issue Tracker** | Java • Python | [View Repo](https://github.com/YOUR_GITHUB_USERNAME/issue-tracker) |
 
+---
 
+### 📈 Contribution & Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=777" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=777" height="170px" />
+</div>
 
+<br />
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakNum=0077B5" width="100%" />
 
+---
 
+<p align="center">
+  <i>"The best way to predict the future is to invent it."</i><br>
+  <b>Let's build something amazing together!</b>
+</p>
+
+</div>
