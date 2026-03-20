@@ -178,7 +178,7 @@ _I'm always open to collaborating on meaningful projects or just having a great 
 
 <div align="center">
 
-*⚡ "Code is not just syntax — it's a superpower. Keep building." ⚡*
+*⚡ "Code is not just syntax — it's a superpower." ⚡*
 
 <br/>
 
