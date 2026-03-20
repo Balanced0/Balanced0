@@ -1,76 +1,176 @@
 <div align="center">
 
-<!-- Cyberpunk Header Banner -->
-<img src="https://capsule-render.vercel.app/render?type=glitch&color=00f2ff&secondaryColor=bc00dd&height=200&section=header&text=Md.%20Alvi%20Chowdhury&fontSize=70&fontAlignY=40&animation=twinkling" width="100%" />
+<!-- ═══════════════════ HEADER BANNER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:6e1f9e,100:ff79c6&height=220&section=header&text=Md.%20Alvi%20Chowdhury&fontSize=52&fontColor=ff79c6&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=62&descColor=bd93f9&descSize=18" />
 
-### ⚡ [ SYSTEM STATUS: ACTIVE ] ⚡
-**Full-Stack Architect // Competitive Programmer // Tech Explorer**
+<br/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-alvi-chowdhury/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-00f2ff?style=for-the-badge&logo=linkedin&logoColor=000" alt="LinkedIn" />
-  </a>
-  <a href="mailto:alvichowdhury013@gmail.com">
-    <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-bc00dd?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email" />
-  </a>
-</p>
+<!-- ═══════════════════ TYPING ANIMATION ═══════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=650&lines=🚀+Full-Stack+Developer;☕+Java+%7C+React+%7C+Python+Engineer;⚔️+Competitive+Programmer+(CF+%26+LeetCode);🌱+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ═══════════════════ BADGES ═══════════════════ -->
+![Profile Views](https://komarev.com/ghpvc/?username=Balanced0&color=ff79c6&style=flat-square&label=Profile+Views)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-alvi-chowdhury/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alvichowdhury013@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Balanced0-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Balanced0)
+
+</div>
+
+<br/>
 
 ---
 
-<!-- Glitch-style About Section -->
+## ✦ About Me
+
+```
+⚡ "The best way to learn is to build things that actually matter." ⚡
+```
+
+Hey there! I'm a **Full-Stack Developer** driven by curiosity and a love for solving real-world problems through code. Whether it's architecting a scalable backend or crafting a pixel-perfect UI, I'm all in. When I'm not building, I'm grinding algorithmic problems on **Codeforces** and **LeetCode** to level up my problem-solving game — because great developers never stop sharpening their edge.
+
+<br/>
+
+```yaml
+name       : Md. Alvi Chowdhury
+role       : Full-Stack Developer
+focus      : Building full-stack apps with real-world impact
+passion    : Competitive Programming + Lifelong Learning
+currently  : Working on impactful full-stack projects
+philosophy : "There is always something new to learn."
+```
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
+
+> Real problems. Real solutions. Real impact.
+
+<br/>
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><b>>_ MISSION_LOG</b></h3>
-      I engineer <b>impactful full-stack solutions</b>. My focus is on creating digital experiences that bridge the gap between complex logic and real-world utility. If it can be optimized, I will find a way.
+    <td valign="top" width="50%">
+      <h3>🐛 GitHub Issue Tracker</h3>
+      <p>A web application to track and manage GitHub issues efficiently — keeping development workflows clean, organized, and productive.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3><b>>_ NEURAL_NETWORK</b></h3>
-      Frequent resident of <b>Codeforces</b> and <b>LeetCode</b>. I treat competitive programming as a daily ritual to keep my algorithmic performance at peak levels.
+    <td valign="top" width="50%">
+      <h3>📖 English Janala</h3>
+      <p>An English-to-Bangla dictionary app designed to bridge language gaps and empower Bengali speakers on their English learning journey.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💼 Job Tracker</h3>
+      <p>A smart job application manager to track every application status — <code>Interview</code>, <code>Rejected</code>, or <code>Deleted</code> — all in one clean, organized dashboard.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>💸 Payoo</h3>
+      <p>A digital mobile payment app inspired by bKash — enabling fast, secure financial transactions for everyday users.</p>
     </td>
   </tr>
 </table>
 
----
-
-### 🛠️ CORE_TECHNOLOGIES
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,git,github,vscode,mongodb,nodejs&theme=dark" />
-</p>
+<br/>
 
 ---
 
-### 💾 PROJECTS.exe
-
-| <font color="#00f2ff">FILE_NAME</font> | <font color="#bc00dd">DEPENDENCIES</font> | <font color="#00f2ff">ACCESS</font> |
-| :--- | :--- | :--- |
-| **Payoo** | React • MFS Logic • CSS | [DECRYPT](https://github.com/YOUR_GITHUB_USERNAME/payoo) |
-| **Job Tracker** | React • Java • Node.js | [DECRYPT](https://github.com/YOUR_GITHUB_USERNAME/job-tracker) |
-| **English Janala** | JS • HTML • CSS | [DECRYPT](https://github.com/YOUR_GITHUB_USERNAME/english-janala) |
-| **Issue Tracker** | Java • Python | [DECRYPT](https://github.com/YOUR_GITHUB_USERNAME/issue-tracker) |
-
----
-
-### 📊 SYSTEM_ANALYTICS
+## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=false&title_color=00f2ff&icon_color=bc00dd&text_color=fff&bg_color=0d1117" height="175px" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=false&title_color=00f2ff&text_color=fff&bg_color=0d1117" height="175px" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Balanced0&show_icons=true&theme=radical&hide_border=true&bg_color=0d001a&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&rank_icon=github" width="48%" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Balanced0&theme=radical&hide_border=true&background=0d001a&ring=ff79c6&fire=bd93f9&currStreakLabel=ff79c6&sideLabels=bd93f9&dates=f8f8f2" width="48%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balanced0&layout=compact&theme=radical&hide_border=true&bg_color=0d001a&title_color=ff79c6&text_color=f8f8f2&langs_count=6" width="42%" alt="Top Languages"/>
+
 </div>
 
-<br />
-
-<!-- Streak Tracker with Neon theme -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false&stroke=00f2ff&ring=bc00dd&fire=00f2ff&currStreakNum=bc00dd" width="100%" />
+<br/>
 
 ---
 
-<p align="center">
-  <code>// Keep learning. Keep building. Error is not an option.</code><br>
-  <b>[ CONNECTION TERMINATED ]</b>
-</p>
+## ⚔️ Competitive Programming
+
+<div align="center">
+
+> _Sharpening the mind, one algorithm at a time._
+
+<br/>
+
+**LeetCode**
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Balanced0?theme=dark&font=Fira+Code&ext=heatmap&border=0)](https://leetcode.com/Balanced0)
+
+<br/>
+
+**Codeforces**
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Balanced0&theme=dark&show_icons=true&force_username=true)](https://codeforces.com/profile/Balanced0)
+
+</div>
+
+<br/>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+_I'm always open to collaborating on meaningful projects or just having a great tech conversation._
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Alvi%20Chowdhury-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-alvi-chowdhury/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-alvichowdhury013@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvichowdhury013@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Balanced0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balanced0)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+*⚡ "Code is not just syntax — it's a superpower. Keep building." ⚡*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff79c6,50:6e1f9e,100:1a0533&height=120&section=footer" />
 
 </div>
