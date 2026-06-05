@@ -83,39 +83,6 @@ philosophy : "There is always something new to learn."
 
 ---
 
-## 🚀 Featured Projects
-
-> Real problems. Real solutions. Real impact.
-
-<br/>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🐛 GitHub Issue Tracker</h3>
-      <p>A web application to track and manage GitHub issues efficiently — keeping development workflows clean, organized, and productive.</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>📖 English Janala</h3>
-      <p>An English-to-Bangla dictionary app designed to bridge language gaps and empower Bengali speakers on their English learning journey.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>💼 Job Tracker</h3>
-      <p>A smart job application manager to track every application status — <code>Interview</code>, <code>Rejected</code>, or <code>Deleted</code> — all in one clean, organized dashboard.</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>💸 Payoo</h3>
-      <p>A digital mobile payment app inspired by bKash — enabling fast, secure financial transactions for everyday users.</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
