@@ -48,6 +48,16 @@ philosophy : "There is always something new to learn."
 
 ---
 
+## 🔭 Current Activities
+
+- 🔭 I'm currently building full-stack web applications (recent: disaster-relief coordination platform, startup networking platform)
+- 🌱 I'm continually exploring the React/Next.js ecosystem
+- ⚔️ I'm sharpening my problem-solving skills on Codeforces and LeetCode
+
+<br/>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -75,7 +85,9 @@ philosophy : "There is always something new to learn."
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![BetterAuth](https://img.shields.io/badge/BetterAuth-6D28D9?style=for-the-badge&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
