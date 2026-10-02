@@ -157,6 +157,18 @@ _I'm always open to collaborating on meaningful projects or just having a great 
 
 ---
 
+## 🧊 Contribution Skyline
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-customize.svg" width="100%" alt="3D Contribution Graph" />
+
+</div>
+
+<br/>
+
+---
+
 <div align="center">
 
 *⚡ "Code is not just syntax — it's a superpower." ⚡*
